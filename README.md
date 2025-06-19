@@ -102,6 +102,6 @@ Visit: `http://127.0.0.1:4000/` in your browser.
 ## 👨‍💻 Author
 
 Pavithra Kumaravelu
-Email: [kanagask0210@gmail.com](mailto:pavivel2004@gmail.com)
+Email: [pavivel2004@gmail.com](mailto:pavivel2004@gmail.com)
 GitHub: [@Pavithra-kumaravelu](https://github.com/Pavithra-kumaravelu)
 
